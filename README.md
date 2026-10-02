@@ -60,16 +60,13 @@ input.dispatchEvent(new Event('change', { bubbles: true }));
 - Tampermonkey / Violentmonkey
 - 需要浏览器支持 `DataTransfer` 和 `DragEvent`
 - 
-## 开发
-
-### 目录结构
+## 目录结构
 
 ```text
 luogu-paste-upload/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── .gitattributes
 └─── luogu-paste-upload.user.js
 ```
 
