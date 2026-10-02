@@ -59,7 +59,7 @@ input.dispatchEvent(new Event('change', { bubbles: true }));
 - Chrome / Edge / Firefox
 - Tampermonkey / Violentmonkey
 - 需要浏览器支持 `DataTransfer` 和 `DragEvent`
-- 
+
 ## 目录结构
 
 ```text
